@@ -1,4 +1,4 @@
-package com.Child.ChildWelfareJavaProject.Entity;
+ package com.Child.ChildWelfareJavaProject.Entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
